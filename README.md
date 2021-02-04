@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cyberpanda/cyberpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/cyberpanda" style="width: 100%">
+<img src="https://github-readme-stats.vercel.app/api?username=cyberpanda&show_icons=true&theme=radical" alt="" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpanda&layout=compact&theme=radical" alt="" height="150px"/>
+</a>
