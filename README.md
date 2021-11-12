@@ -9,8 +9,8 @@
 </details>
 
   <a href="https://github.com/cyberpanda" style="width: 100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=cyberpanda&show_icons=true&theme=radical" alt="" height="150px"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpanda&layout=compact&theme=radical" alt="" height="150px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=cyberpanda&show_icons=true" alt="" height="150px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpanda&layout=compact" alt="" height="150px"/>
   </a>
 
 - 🌱 I’m currently learning everything about ReactJS and yarn. I need to get out of my python, golang and {vanilla-js,css3,html5} comfort zone
