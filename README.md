@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=cyberpanda&label=PROFILE+VIEWS&color=brightgreen)
-<a rel="me" href="https://ioc.exchange/@cyberpanda">Mastodon</a>
+
+<a rel="me" href="https://infosec.exchange/@cyberpanda">Mastodon</a>
 <details>
 <summary>Don't click me!</summary>
 <br>
