@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=cyberpanda&label=PROFILE+VIEWS&color=brightgreen)
 
 <a rel="me" href="https://infosec.exchange/@cyberpanda">Mastodon</a><br>
-<a rel="me" href="https://bsky.app/profile/realcyberpanda.bsky.social">Bluesky</a>
+<a rel="me" href="https://bsky.app/profile/realcyberpanda.bsky.social">Bluesky</a><br>
+<a rel="me" href="https://x.com/realcyberpanda">𝕏</a>
+
 <details>
 <summary>Don't click me!</summary>
 <br>
